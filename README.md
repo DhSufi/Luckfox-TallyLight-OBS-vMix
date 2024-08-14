@@ -75,5 +75,12 @@ Be careful with that.
 When using vMix it only triggers input NUMBER. That means, if you close an input, then the order may change and the input number X is a diferrent resource. Be careful with that.
 
 
+This script uses:
+
+https://github.com/IRLToolkit/simpleobsws  
+
+https://github.com/vsergeev/python-periphery
+
+
 
 
