@@ -1,7 +1,7 @@
 # Luckfox-TallyLight-OBS-vMix
 Simple client that runs on Luckfox Pico Pro (or similar development boards). It can be configured to connect to OBS Studio Websocket or Vmix TCP API. Then powers on/off the led of the board on configuration demand.
 
-![Example setup](https://raw.githubusercontent.com/DhSufi/Luckfox-TallyLight-OBS-vMix/main/TallyLuckfox.png)
+![Example setup](https://raw.githubusercontent.com/DhSufi/Luckfox-TallyLight-OBS-vMix/main/Tally-Luckfox.png)
 
 The main goal of the script is to have full control of the setup via LAN network. Some cameras (like Blackmagic) may have built-in Tally lights but they can only be controlled via BNC inputs (they do not allow REST API for Tally control). Also other cameras do not even have built-in tally lights.  
 
