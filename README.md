@@ -11,7 +11,8 @@ The script reads the file called tally.conf. In this file you must set up the fo
   `software: "obs"  
   ip: "localhost"  
   port: "4455"  
-  source: "Caster Cam"  `
+  source: "Caster Cam"  
+  `
   
   Example for OBS SCENE:
   
