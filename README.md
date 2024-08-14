@@ -8,28 +8,24 @@ The script reads the file called tally.conf. In this file you must set up the fo
 
 Example for OBS SOURCE:
 
-`software: "obs"  
-ip: "localhost"  
-port: "4455"  
-source: "Caster Cam"  
-`
- 
-  
-  Example for OBS SCENE:
-  
-  `>software: "obs"
-  >ip: "localhost"
-  >port: "4455"
-  >scene: "Main Stage"
-  `
+`software: "obs"`
+`ip: "localhost"`  
+`port: "4455"`  
+`source: "Caster Cam"`  
 
-  Example for vMix:
-  
-  `>software: "vmix"
-  >ip: "192.168.1.132"
-  >port: "8099"
-  >input: "3"
-  `
+Example for OBS SCENE:
+
+`software: "obs"`  
+`ip: "localhost"`  
+`port: "4455"`  
+`scene: "Main Stage"`  
+
+Example for vMix:  
+
+`software: "vmix"`  
+`ip: "localhost"`  
+`port: "8099"`  
+`input: "3"` 
 
 When using OBS SOURCE it is important to respect spaces inside the quotes, as long as OBS consider them different sources. For example:
 
