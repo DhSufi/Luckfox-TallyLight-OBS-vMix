@@ -8,10 +8,10 @@ The script reads the file called tally.conf. In this file you must set up the fo
 
   Example for OBS SOURCE:
    
-  `software: "obs"
-  ip: "localhost"
-  port: "4455"
-  source: "Caster Cam"`
+  `software: "obs"  
+  ip: "localhost"  
+  port: "4455"  
+  source: "Caster Cam"  `
   
   Example for OBS SCENE:
   
