@@ -7,10 +7,10 @@ Change in the script the path and pins of your setup (# CHANGE TO YOUR NEEDS)
 The script reads the file called tally.conf. In this file you must set up the following parameters:
 
   Example for OBS SOURCE:
-  >software: "obs"
-  >ip: "localhost"
-  >port: "4455"
-  >source: "Caster Cam"
+  >software: "obs"\n
+  >ip: "localhost"\n
+  >port: "4455"\n
+  >source: "Caster Cam"\n
   
   Example for OBS SCENE:
   >software: "obs"
