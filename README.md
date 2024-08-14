@@ -13,7 +13,6 @@ ip: "localhost"
 port: "4455"
 source: "Caster Cam"
 
-
 Example for OBS SCENE:
 
 software: "obs"
